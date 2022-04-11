@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SUKAmano16
+- 👋 Hi, I’m Valenthino
 - 👀 I’m interested in python programming language
 - 🌱 I’m currently learning python language
 - 💞️ I’m looking to collaborate on learn python language from basic to advanced
